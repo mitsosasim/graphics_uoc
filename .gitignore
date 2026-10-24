@@ -1,0 +1,12 @@
+.venv/
+vendor/
+build/
+__pycache__/
+*.pyc
+imgui.ini
+docs/report/*.aux
+docs/report/*.log
+docs/report/*.out
+docs/report/main.pdf
+
+/assignments/04/runner-windows.zip
